@@ -1,0 +1,64 @@
+{
+  "Proveedores": [
+    {
+      "Rut": "12345678-9",
+      "Nombre": "Proveedor Uno Ltda",
+      "Giro": "Servicios Informáticos",
+      "Direccion": "Calle Falsa 123"
+    },
+    {
+      "Rut": "98765432-1",
+      "Nombre": "Proveedor Dos SPA",
+      "Giro": "Construcción",
+      "Direccion": "Avenida Siempre Viva 742"
+    },
+    {
+      "Rut": "11223344-5",
+      "Nombre": "Proveedor Tres SA",
+      "Giro": "Alimentos",
+      "Direccion": "Calle Principal 456"
+    },
+    {
+      "Rut": "22334455-6",
+      "Nombre": "Proveedor Cuatro Ltda",
+      "Giro": "Textiles",
+      "Direccion": "Calle Secundaria 789"
+    },
+    {
+      "Rut": "33445566-7",
+      "Nombre": "Proveedor Cinco SPA",
+      "Giro": "Tecnología",
+      "Direccion": "Avenida de la Innovación 101"
+    },
+    {
+      "Rut": "44556677-8",
+      "Nombre": "Proveedor Seis SA",
+      "Giro": "Construcción",
+      "Direccion": "Plaza del Progreso 234"
+    },
+    {
+      "Rut": "55667788-9",
+      "Nombre": "Proveedor Siete Ltda",
+      "Giro": "Alimentos",
+      "Direccion": "Calle del Mercado 345"
+    },
+    {
+      "Rut": "66778899-0",
+      "Nombre": "Proveedor Ocho SPA",
+      "Giro": "Servicios Financieros",
+      "Direccion": "Avenida Libertad 456"
+    },
+    {
+      "Rut": "77889900-1",
+      "Nombre": "Proveedor Nueve SA",
+      "Giro": "Logística",
+      "Direccion": "Calle del Transporte 567"
+    },
+    {
+      "Rut": "88990011-2",
+      "Nombre": "Proveedor Diez Ltda",
+      "Giro": "Marketing",
+      "Direccion": "Avenida de la Creatividad 678"
+    }
+  ]
+}
